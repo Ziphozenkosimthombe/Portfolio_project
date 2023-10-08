@@ -208,6 +208,9 @@ section {
 }
 
 /* PROFILE SECTION */
+.ziph_pic{
+  border-radius: 50%;
+}
 
 #profile {
   display: flex;
@@ -354,7 +357,7 @@ section {
 }
 
 .section-container {
-  gap: 4rem;
+  gap: 10rem;
   height: 80%;
 }
 
@@ -364,17 +367,6 @@ section {
   margin: auto 0;
 }
 
-.section__pic-container > img{
-    border-radius: 50%;
-}
-
-.section-container img{
-    border-radius: 5%;
-}
-
- .text-container{
-    margin-left: 15%;
- }
 /* EXPERIENCE SECTION */
 
 #experience {
@@ -447,7 +439,7 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 140vh;
+  height: 70vh;
 }
 
 .contact-info-upper-container {
@@ -489,5 +481,5 @@ footer {
 }
 
 footer p {
-  text-align: center;
+  text-align:center;
 }
