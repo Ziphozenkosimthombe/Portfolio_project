@@ -440,6 +440,7 @@ article .icon {
   justify-content: center;
   flex-direction: column;
   height: 70vh;
+  margin-top: 8rem;
 }
 
 .contact-info-upper-container {
